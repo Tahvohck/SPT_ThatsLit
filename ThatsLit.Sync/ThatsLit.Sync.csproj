@@ -10,7 +10,7 @@
 
   <PropertyGroup>
     <!-- folder switch -->
-    <EFTPath>..\..\..</EFTPath>
+    <EFTPath>S:\Games\Fika - SPT 3.11.x</EFTPath>
     <ManagedAssembliesPath>$(EFTPath)\EscapeFromTarkov_Data\Managed</ManagedAssembliesPath>
     <BepInExPath>$(EFTPath)\BepInEx\core</BepInExPath>
     <PluginsPath>$(EFTPath)\BepInEx\plugins</PluginsPath>
